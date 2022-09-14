@@ -17,7 +17,7 @@ public class ControleRemoto implements Controlador {
     public void setVolume(int volume){
         this.volume = volume;
     }
-    public int getVolume(){
+    public int getVolume( ){
         return volume;
 
     }
